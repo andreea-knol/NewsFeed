@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="horizontal_margin">16dp</dimen>
+    <dimen name="title_size">24sp</dimen>
+    <dimen name="subtitle_size">16sp</dimen>
+    <dimen name="divider_height">2dp</dimen>
+    <dimen name="more_margin">40dp</dimen>
+</resources>

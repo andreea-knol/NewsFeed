@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="no_news">There are no stories for you at the moment. You can always come back
+        later and check for new stories.</string>
+    <string name="no_internet">Could not connect to the server. Please make sure your device is
+        connected to the Internet and launch the app again.</string>
+    <string name="date">Date published</string>
+    <string name="author">Author</string>
+    <string name="not_specified">Not specified</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">News Settings</string>
+
+    <!-- Strings for Category Preference -->
+    <string name="settings_category_label">Category</string>
+    <string name="settings_category_key" translatable="false">category</string>
+    <string name="settings_category_default" translatable="false">@string/settings_category_all_value</string>
+
+    <!-- Label for category all option -->
+    <string name="settings_category_all_label">All</string>
+    <string name="settings_category_all_value" translatable="false">all</string>
+
+    <!-- Label for category music option -->
+    <string name="settings_category_music_label">Music</string>
+    <string name="settings_category_music_value" translatable="false">music</string>
+
+    <!-- Label for category culture option -->
+    <string name="settings_category_culture_label">Culture</string>
+    <string name="settings_category_culture_value" translatable="false">culture</string>
+
+    <!-- Label for category sport option -->
+    <string name="settings_category_sport_label">Sport</string>
+    <string name="settings_category_sport_value" translatable="false">sport</string>
+
+    <!-- Label for category science option -->
+    <string name="settings_category_science_label">Science</string>
+    <string name="settings_category_science_value" translatable="false">science</string>
+
+    <!-- Label for category environment option -->
+    <string name="settings_category_environment_label">Environment</string>
+    <string name="settings_category_environment_value" translatable="false">environment</string>
+
+    <!-- Label for category business option -->
+    <string name="settings_category_business_label">Business</string>
+    <string name="settings_category_business_value" translatable="false">business</string>
+
+    <!-- Label for category politics option -->
+    <string name="settings_category_politics_label">Politics</string>
+    <string name="settings_category_politics_value" translatable="false">politics</string>
+
+    <!-- Strings for Order By Preference -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <!-- Label for order-by newest option -->
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <!-- Label for order-by oldest option -->
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+    <!-- Label for order-by relevance option -->
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+</resources>
